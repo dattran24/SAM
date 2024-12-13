@@ -33,5 +33,5 @@ python fundamental_sam/train_sam.py --experiment=config/file/name
 
 For example, 
 ```bash
-python fundamental_sam/train_sam.py --experiment=cifar10_restnet18_sam_cosine
+python fundamental_sam/train_sam.py --experiment=cifar10_resnet18_sam_cosine
 ```
