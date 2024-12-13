@@ -30,3 +30,8 @@ Choose any file name in `./config` and replace it in the below bash.
 ```bash
 python fundamental_sam/train_sam.py --experiment=config/file/name
 ```
+
+For example, 
+```bash
+python fundamental_sam/train_sam.py --experiment=cifar10_restnet18_sam_cosine
+```
